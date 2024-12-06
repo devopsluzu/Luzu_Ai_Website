@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
-
+import Link from 'next/link';
 const LandingHero = () => {
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
@@ -75,21 +75,12 @@ const LandingHero = () => {
     <div className='landing-hero'>
       <div className='landing-hero-container'>
         <div className='landing-hero-heading'>
-          <h1>Increase your marketing performance on the go</h1>
+          <h1>Chat, Create, Supercharge your Ideas</h1>
         </div>
         <div className='landing-hero-para'>
           <p>Write a blog, do keyword research, measure your analytics all in one place. Gain more insights on your marketing performance.</p>
         </div>
-        <form onSubmit={handleSubmit} className='landing-hero-form'>
-          <input
-            type="email"
-            placeholder='Enter your email ID. Join beta'
-            value={email}
-            onChange={handleInputChange}
-            required
-          />
-          <button type="submit">Get Started</button>
-        </form>
+        <Link href="https://app.prfec.ai/" type="submit" className='landing-hero-button'>Start Generating Free</Link>
       </div>
 
       {showPopup && (
