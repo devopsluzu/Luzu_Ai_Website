@@ -21,7 +21,7 @@ function TermsOfService() {
 
   <h4>1. OVERVIEW</h4>
 
-  <p>This Terms of Service Agreement (“Agreement”) is entered into by and between <strong>PRFEC AI</strong>, registered address No 157, G1, 4/608, V.O.C. Street, Perungudi, OMR, Chennai - 600041. and you, and is made effective as of the date of your use of this website <a href="https://prfec.ai/">https://prfec.ai/</a> or the date of electronic acceptance.</p>
+  <p>This Terms of Service Agreement (“Agreement”) is entered into by and between <strong>PRFEC AI</strong>, registered address 2/49, Sangothipalayam, Kaniyur, Karumathampatti, Avanashi, Coimbatore- 641659, Tamil Nadu. and you, and is made effective as of the date of your use of this website <a href="https://prfec.ai/">https://prfec.ai/</a> or the date of electronic acceptance.</p>
 
   <p>This Agreement sets forth the general terms and conditions of your use of the   <a href="https://prfec.ai/">https://prfec.ai/</a> as well as the products and/or services purchased or accessed through this Site (the “Services”).
   </p>
