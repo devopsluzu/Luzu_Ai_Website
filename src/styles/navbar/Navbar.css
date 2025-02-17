@@ -127,7 +127,7 @@
   padding: 8px 0px;
   position: fixed;
   z-index: 100;
-  background-color: var(--prfec-black);
+  background-color: (#F6F7FD);
   height: 64px;
 }
 .navbar-container {
@@ -142,9 +142,26 @@
   .navbar-logo {
   display: flex;
   align-items: center;
+  border: blue;
+  border-radius: 5px;
+
+  }
+  .navbar-service-dropdown{
+    width: 220px;
+    padding: px;
+    text-align: center;
+    border: 1px solid var(--box-border);
+    border-radius: 16px;
+    background-color: var(--prfec-white);
+    position: absolute;
+    top: 71px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    height: 220px;
   }
 .prfec-logo {
-  height: 24px;
+  height: 32px;
   width: auto;
 }
 .navbar-contents{
@@ -156,10 +173,11 @@
   font-size: 16px;
   font-family: var(--p-font);
   font-weight: 500;
-  color: var(--p-white);
+  color: var(--p-black);
+  cursor:pointer
 }
 .navbar-contents-category:hover{
-  color: var(--h-white);
+  color: var(--h-black);
 }
 .navbar-login{
   width: max-content;
@@ -239,9 +257,12 @@
 .navbar-profile-dropdown p:first-child {
   border-radius: 0px;
 }
-.navbar-menu-icons, .navbar-menu{
+.navbar-menu-icons{
   display: none;
+  
 }
+
+
 
 @media only screen and (max-width:1024px){
   .navbar-contents{
