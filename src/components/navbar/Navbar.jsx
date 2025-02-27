@@ -193,42 +193,42 @@ export const Navbar = () => {
               >
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/seo"
+                  href="https://business.prfec.ai/seo"
                   onClick={handleItemClick}
                 >
                   SEO
                 </Link>
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/content"
+                  href="https://business.prfec.ai/content"
                   onClick={handleItemClick}
                 >
                   Content
                 </Link>
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/email"
+                  href="https://business.prfec.ai/email"
                   onClick={handleItemClick}
                 >
                   Email
                 </Link>
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/sma"
+                  href="https://business.prfec.ai/sma"
                   onClick={handleItemClick}
                 >
                   Social Media Advertising
                 </Link>
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/payperclick"
+                  href="https://business.prfec.ai/payperclick"
                   onClick={handleItemClick}
                 >
                   Pay Per Click
                 </Link>
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/analytics"
+                  href="https://business.prfec.ai/analytics"
                   onClick={handleItemClick}
                 >
                   Analytics and Reporting
@@ -252,7 +252,7 @@ export const Navbar = () => {
               )}
             </div>
             <Link
-              href="/login"
+              href="https://app.prfec.ai"
               className="navbar-login"
               onClick={handleLinkClick}
               style={{ marginLeft: "10px" }}
@@ -334,42 +334,42 @@ export const Navbar = () => {
               >
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/seo"
+                  href="https://business.prfec.ai/seo"
                   onClick={handleItemClick}
                 >
                   SEO
                 </Link>
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/content"
+                  href="https://business.prfec.ai/content"
                   onClick={handleItemClick}
                 >
                   Content
                 </Link>
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/email"
+                  href="https://business.prfec.ai/email"
                   onClick={handleItemClick}
                 >
                   Email
                 </Link>
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/sma"
+                  href="https://business.prfec.ai/sma"
                   onClick={handleItemClick}
                 >
                   Social Media Advertising
                 </Link>
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/payperclick"
+                  href="https://business.prfec.ai/payperclick"
                   onClick={handleItemClick}
                 >
                   Pay Per Click
                 </Link>
                 <Link
                   className="hover:bg-gray-200 text-start px-5"
-                  href="/analytics"
+                  href="https://business.prfec.ai/analytics"
                   onClick={handleItemClick}
                 >
                   Analytics and Reporting
