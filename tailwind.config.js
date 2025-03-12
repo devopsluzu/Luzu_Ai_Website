@@ -4,9 +4,13 @@ module.exports = {
 theme: {
   
     extend: {
+      colors: {
+        "p-black": "#505050",
+      },
       
       fontFamily: {
         firansans: ['"Fira Sans"', 'sans-serif'],
+        
       },
       screens: {
         'sm': '640px',
