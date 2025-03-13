@@ -1069,6 +1069,10 @@
     border-radius: 12px;
     flex-shrink: 0;
 }
+.landing-enterprise-btn:hover{
+background-color: #414abb;
+border:1px solid #414abb;
+}
 @media only screen and (max-width:1300px){
     .landing-enterprise-container{
         width: 85%;
@@ -1419,8 +1423,10 @@
   }
   .partner-text {
     font-size: 25px;
-    font-weight: 600;
+    font-weight: 500;
     margin-bottom: 20px;
+    font-family: var(--h-font);
+    color: var(--p-black);
   }
   
   .logo-slider {
@@ -1475,11 +1481,14 @@
         gap: 2rem;
     }
     .landing-logo-container{
-        gap: 2rem;
+        gap: 1rem;
 
     }
-    .partner-text{
-        font-size: 20px;
+    .partner-text {
+        font-size: 18px;
+    }
+    .logo-item{
+        padding: 0px 16px;
     }
     .logo-item img{
         height: 20px;

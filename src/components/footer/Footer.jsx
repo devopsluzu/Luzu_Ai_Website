@@ -62,7 +62,7 @@ export const Footer = () => {
                   <Image src={Instagram} alt='Instagram'/>
                   <Image src={Linkedin} alt='Linkedin'/>
               </div>
-              <p>@copyright prfec.ai, 2024</p>
+              <p>@copyright prfec.ai, 2025</p>
 
           </div>
         </div>

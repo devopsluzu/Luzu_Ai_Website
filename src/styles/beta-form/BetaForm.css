@@ -185,13 +185,20 @@
     .beta-form-container{
       width: 90%;
     }
+    .beta-form-headline h2{
+      font-size: 24px;
+    }
   }
   @media only screen and (max-width:400px){
     .beta-form{
 
       padding: 90px 0px;
+      padding-top: 120px;
     }
     .beta-form-fullname{
       flex-direction: column;
+    }
+    .beta-form-headline h2{
+      font-size: 20px;
     }
   }
