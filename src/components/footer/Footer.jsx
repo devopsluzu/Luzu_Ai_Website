@@ -52,7 +52,9 @@ export const Footer = () => {
             <div className="footer-content-text"><Link href="/refund-policy"><p>Refund Policy</p></Link></div>
             </div>
             <div className='footer-contents'>
-            <Image src={logo} alt='prfec logo'/>
+            <div style={{fontSize:"18px",fontFamily:"var(--h-font)",fontWeight:"600",color:"var(--prfec-white)"}}>
+            Luzu AI
+          </div>
           </div>
           </div>
           <div className='footer-right'>
@@ -62,7 +64,7 @@ export const Footer = () => {
                   <Image src={Instagram} alt='Instagram'/>
                   <Image src={Linkedin} alt='Linkedin'/>
               </div>
-              <p>@copyright prfec.ai, 2025</p>
+              <p>@copyright luzu.ai, 2025</p>
 
           </div>
         </div>

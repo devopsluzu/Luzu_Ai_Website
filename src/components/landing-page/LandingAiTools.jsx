@@ -43,7 +43,7 @@ const LandingAiTools = () => {
                             <h4>{item.heading} </h4>
                         </div>
                         <p>{item.para} </p>
-                       <Link href='https://app.prfec.ai/'> <button>Start Free Trail</button></Link>
+                       <Link href='https://app.luzu.ai/'> <button>Start Free Trail</button></Link>
                     </div>
                 </div>))}
             </div>

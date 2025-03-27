@@ -21,7 +21,7 @@ function TermsOfService() {
 
   <h4>1. OVERVIEW</h4>
 
-  <p>This Terms of Service Agreement (“Agreement”) is entered into by and between <strong>PRFEC AI</strong>, registered address 2/49, Sangothipalayam, Kaniyur, Karumathampatti, Avanashi, Coimbatore- 641659, Tamil Nadu. and you, and is made effective as of the date of your use of this website <a href="https://prfec.ai/">https://prfec.ai/</a> or the date of electronic acceptance.</p>
+  <p>This Terms of Service Agreement (“Agreement”) is entered into by and between <strong>Luzu AI</strong>, registered address 2/49, Sangothipalayam, Kaniyur, Karumathampatti, Avanashi, Coimbatore- 641659, Tamil Nadu. and you, and is made effective as of the date of your use of this website <a href="https://prfec.ai/">https://prfec.ai/</a> or the date of electronic acceptance.</p>
 
   <p>This Agreement sets forth the general terms and conditions of your use of the   <a href="https://prfec.ai/">https://prfec.ai/</a> as well as the products and/or services purchased or accessed through this Site (the “Services”).
   </p>
@@ -74,7 +74,7 @@ function TermsOfService() {
   <h4>4. INTELLECTUAL PROPERTY</h4>
 
     <p>In addition to the general rules above, the provisions in this Section apply specifically to your use of Companies Content posted to the Site. Companies Content on this Site, including without limitation the text, software, scripts, source code, API, graphics, photos, sounds, music, videos and interactive features and the trademarks, service marks and logos contained therein (“Companies Content”), are owned by or licensed 
-      to <strong>PRFEC AI</strong> in perpetuity, and are subject to copyright, trademark, and/or patent protection.</p>
+      to <strong>Luzu AI</strong> in perpetuity, and are subject to copyright, trademark, and/or patent protection.</p>
 
     <p>Companies Content is provided to you “as is”, “as available” and “with all faults” for your information and personal, non-commercial use only and may not be downloaded, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any purposes whatsoever without the express prior written consent of Company. 
       No right or license under any copyright, trademark, patent or other proprietary right or license is granted by this Agreement.</p>
@@ -157,7 +157,7 @@ function TermsOfService() {
 
   <h4>14. FEES AND PAYMENTS</h4>
 
-  <p>You acknowledge and agree that your payment will be charged and processed by <strong>PRFEC AI.</strong></p>
+  <p>You acknowledge and agree that your payment will be charged and processed by <strong>Luzu AI.</strong></p>
   <p>You agree to pay any and all prices and fees due for Services purchased or obtained at this Site at the time you order the Services.</p>
   <p>The company expressly reserves the right to change or modify its prices and fees at any time, and such changes or modifications shall be posted online at this Site and effective immediately without the need for further notice to you.</p>
   <p>Except as expressly provided in these Terms, all charges and payments are non-refundable, non-cancellable, and non-creditable, even if your Services are suspended, terminated, or transferred prior to the end of the Services term.</p>
@@ -183,7 +183,7 @@ function TermsOfService() {
   <h4>21. CONTACT INFORMATION</h4>
     <p>If you have any questions about this Agreement, please contact us by email or regular mail at the following address:</p>
 
-    <p><strong>PRFEC AI</strong>
+    <p><strong>Luzu AI</strong>
     </p>
 
     <p id="link">info@prfec.ai</p>

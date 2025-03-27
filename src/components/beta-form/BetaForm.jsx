@@ -66,7 +66,7 @@ const BetaForm = () => {
     <div className='beta-form'>
       <div className='beta-form-container'>
         <div className='beta-form-headline'>
-          <h2>Get Started with Prfec AI</h2>
+          <h2>Get Started with Luzu AI</h2>
         </div>
         <form onSubmit={handleSubmit} className='beta-form-user-contents'>
           <div className='beta-form-fullname'>

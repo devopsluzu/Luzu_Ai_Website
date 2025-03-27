@@ -14,9 +14,9 @@ function CookiePolicy() {
         Cookie Policy
       </h1>
       <p>In this Cookie Policy we will provide you with detailed information on 
-        how <strong>PRFEC AI</strong>, registered address 2/49, Sangothipalayam, Kaniyur, Karumathampatti, Avanashi, Coimbatore- 641659, Tamil Nadu (hereinafter – the “we” or “our”), shall undertake to 
+        how <strong>Luzu AI</strong>, registered address 2/49, Sangothipalayam, Kaniyur, Karumathampatti, Avanashi, Coimbatore- 641659, Tamil Nadu (hereinafter – the “we” or “our”), shall undertake to 
         ensure the security of personal information and the protection of rights of the visitors and users of the websites 
-        (hereinafter – the “Visitors”, “You”) while you use our websites including but not limited to https://prfec.ai/ (hereinafter – 
+        (hereinafter – the “Visitors”, “You”) while you use our websites including but not limited to https://luzu.ai/ (hereinafter – 
         the “Site”) and the content on it.</p>
   
 
@@ -74,7 +74,7 @@ function CookiePolicy() {
         <p>We draw your attention that necessary cookies are critical for functioning of our Site, and in case of your objections, some features of the Site may not work or may not work properly.</p>
 
         <p>We draw your attention that necessary cookies are critical for functioning of our Site, and in case of your objections, some features of the Site may not work or may not work properly.
-          You may require that we delete all the data about you, as collected and processed with the help of the cookies, by contacting the email address info@prfec.ai
+          You may require that we delete all the data about you, as collected and processed with the help of the cookies, by contacting the email address info@Luzu.ai
           </p>
           
         <p>You can opt out of Google Analytics without affecting how you visit our Site. For more information on opting out of being tracked by Google Analytics across all websites you use, visit this Google page: https://tools.google.com/dlpage/gaoptout.</p>

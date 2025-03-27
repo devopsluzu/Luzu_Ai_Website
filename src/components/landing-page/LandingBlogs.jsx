@@ -12,7 +12,7 @@ const LandingBlogs = () => {
                 <h2>Insights from AI Marketing Experts</h2>
             </div>
             <div className='landing-blog-contents'>
-            <Link href='https://blog.prfec.ai/optimize-your-website-lets-explore-on-page-and-off-page-seo-together' className='landing-blog-box'>
+            <Link href='https://blog.luzu.ai/optimize-your-website-lets-explore-on-page-and-off-page-seo-together' className='landing-blog-box'>
                     <div className='landing-blogs-box-contents'>
                     <h5>SEO</h5>
                     <h4>Optimize Your Website: Let&apos;s explore on-page and off-page SEO together</h4>
@@ -22,7 +22,7 @@ const LandingBlogs = () => {
                         <Image src={button} alt='blog'/>
                     </div>
                 </Link>
-                <Link href='https://blog.prfec.ai/exploring-the-transformative-power-of-artificial-intelligence' className='landing-blog-box'>
+                <Link href='https://blog.luzu.ai/exploring-the-transformative-power-of-artificial-intelligence' className='landing-blog-box'>
                 <div className='landing-blogs-box-contents'>
                     <h5>Artificial Intelligence</h5>
                     <h4>Exploring the Transformative Power of Artificial Intelligence</h4>
@@ -32,7 +32,7 @@ const LandingBlogs = () => {
                  <Image src={button} alt='blog'/>
                  </div>
                 </Link>
-                <Link href='https://blog.prfec.ai/how-to-leverage-customer-segmentation-for-better-targeting' className='landing-blog-box'>
+                <Link href='https://blog.luzu.ai/how-to-leverage-customer-segmentation-for-better-targeting' className='landing-blog-box'>
                 <div className='landing-blogs-box-contents'>
                     <h5>SEO</h5>
                     <h4>How to Leverage Customer Segmentation for Better Targeting</h4>

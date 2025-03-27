@@ -15,7 +15,7 @@ const LandingTraditionalMarketing = () => {
             ]
         },
        { 
-        title:"Prfec AI Marketing",
+        title:"Luzu AI Marketing",
         heading:"The Accelerated Path to Success",
         para:"Leverage the power of AI to automate tasks, gain real-time insights, and achieve unprecedented marketing performance.",
         points:[

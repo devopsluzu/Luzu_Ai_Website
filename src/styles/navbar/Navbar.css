@@ -67,10 +67,10 @@
 }
 .navbar-login{
   width: max-content;
-  padding: 4px 16px;
-  border:2px solid var(--prfec-clr);
+  padding: 6px 16px;
+  border:1px solid var(--prfec-black);
   border-radius:8px;
-  background-color: var(--prfec-clr);
+  background-color: var(--prfec-black);
   font-size: 14px;
   font-family: var(--p-font);
   font-weight: 400;
@@ -79,9 +79,8 @@
   align-items: center;
 }
 .navbar-login:hover{
-  border: 2px solid #414abb;
-  background-color: #414abb;
-  color: var(--h-white);
+  background-color: inherit;
+  color: var(--prfec-black);
 }
 .navbar-signup{
   width: max-content;

@@ -41,9 +41,9 @@
     /* width: max-content; */
     margin-top: 10px;
     padding: 12px 32px;
-    border:1px solid var(--prfec-clr);
+    border:1px solid var(--prfec-black);
     border-radius:10px;
-    background-color: var(--prfec-clr);
+    background-color: var(--prfec-black);
     font-size: 18px;
     font-family: var(--p-font);
     font-weight: 400;
@@ -52,8 +52,8 @@
     align-items: center;
 }
 .landing-hero-button:hover{
-    background-color: #414abb;
-    border:1px solid #414abb;
+    background-color: inherit;
+    color:var(--prfec-black);
 }
 @media only screen and (max-width:1200px){
     .landing-hero-heading h1 {
@@ -230,9 +230,9 @@
 .landing-ai-tools-box-contents button{
     width: max-content;
     padding: 10px 18px;
-    border:1px solid var(--prfec-clr);
+    border:1px solid var(--prfec-black);
     border-radius:8px;
-    background-color: var(--prfec-clr);
+    background-color: var(--prfec-black);
     font-size: 16px;
     font-family: var(--p-font);
     font-weight: 400;
@@ -241,8 +241,8 @@
     align-items: center;
 }
 .landing-ai-tools-box-contents button:hover{
-    background-color: #414abb;
-    border:1px solid #414abb;
+    background-color: inherit;
+    color: var(--prfec-black);
 }
 @media only screen and (max-width:1200px){
     .landing-ai-tools-box-contents{
@@ -1064,14 +1064,16 @@
     font-size: 20px;
     font-weight: 400;
     color: var(--prfec-white);
-    background-color:var(--prfec-clr);
+    background-color:var(--prfec-black);
+    border: 1px solid var(--prfec-black);
     padding: 14px 32px;
     border-radius: 12px;
     flex-shrink: 0;
 }
 .landing-enterprise-btn:hover{
-background-color: #414abb;
-border:1px solid #414abb;
+background-color: inherit;
+color: var(--prfec-black);
+
 }
 @media only screen and (max-width:1300px){
     .landing-enterprise-container{

@@ -11,11 +11,11 @@ function PrivacyPolicy() {
         <h1>
           Privacy Policy
         </h1>
-        <p>Your privacy is important to us, so <strong>PRFEC AI</strong>, registered address 2/49, Sangothipalayam, Kaniyur, Karumathampatti, Avanashi, Coimbatore- 641659, Tamil Nadu. an India Company, has created the following Privacy Policy to let you know what information we collect when you visit our Site https://prfec.ai/, why we collect it and how we use it.</p>
+        <p>Your privacy is important to us, so <strong>luzu AI</strong>, registered address 2/49, Sangothipalayam, Kaniyur, Karumathampatti, Avanashi, Coimbatore- 641659, Tamil Nadu. an India Company, has created the following Privacy Policy to let you know what information we collect when you visit our Site https://luzu.ai/, why we collect it and how we use it.</p>
         <p>The terms “You,” “Your,” “Yours” and “User” refer to the entity/person/organization using our Site.</p>
-        <p>When this Policy mentions “We”, “Us,” and “Our” it refers to <strong>PRFEC AI</strong> and its subsidiaries and affiliates.</p>
+        <p>When this Policy mentions “We”, “Us,” and “Our” it refers to <strong>luzu AI</strong> and its subsidiaries and affiliates.</p>
         <p>This Privacy Policy is governed by our Terms of Service.</p>
-        <p>For any questions regarding this Policy or any requests regarding the processing of personal data, please contact us at info@prfec.ai
+        <p>For any questions regarding this Policy or any requests regarding the processing of personal data, please contact us at info@luzu.ai
       </p>
       
 
@@ -140,7 +140,7 @@ function PrivacyPolicy() {
           </p>
 
           <p>We, therefore, encourage you to avoid providing us or anyone with any sensitive information which you believe its disclosure could cause you substantial or irreparable harm.
-              If you have any questions regarding the security of our Site or Services, you are welcome to contact us at info@prfec.ai
+              If you have any questions regarding the security of our Site or Services, you are welcome to contact us at info@luzu.ai
           </p>
 
 

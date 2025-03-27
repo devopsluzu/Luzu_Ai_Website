@@ -101,7 +101,9 @@ export const Navbar = () => {
       <div className="navbar-container">
         <div className="navbar-logo">
           <Link href="/" onClick={handleLinkClick}>
-            <Image height={13} src={prfeclogo} alt="Logo" />
+          <div style={{fontSize:"16px",fontFamily:"var(--h-font)",fontWeight:"500",color:"var(--prfec-black)"}}>
+            Luzu AI
+          </div>
           </Link>
         </div>
 
@@ -124,35 +126,35 @@ export const Navbar = () => {
                 className="navbar-service-dropdown flex justify-center"
                 ref={dropdownRef}
               >
-                <Link  href="https://business.prfec.ai/seo" onClick={handleItemClick}>
+                <Link  href="https://business.luzu.ai/seo" onClick={handleItemClick}>
                   SEO
                 </Link>
                 <Link 
-                  href="https://business.prfec.ai/content"
+                  href="https://business.luzu.ai/content"
                   onClick={handleItemClick}
                 >
                   Content
                 </Link>
                 <Link 
-                  href="https://business.prfec.ai/email"
+                  href="https://business.luzu.ai/email"
                   onClick={handleItemClick}
                 >
                   Email
                 </Link>
                 <Link 
-                  href="https://business.prfec.ai/sma"
+                  href="https://business.luzu.ai/sma"
                   onClick={handleItemClick}
                 >
                   Social Media Advertising
                 </Link>
                 <Link 
-                  href="https://business.prfec.ai/payperclick"
+                  href="https://business.luzu.ai/payperclick"
                   onClick={handleItemClick}
                 >
                   Pay Per Click
                 </Link>
                 <Link 
-                  href="https://business.prfec.ai/analytics"
+                  href="https://business.luzu.ai/analytics"
                   onClick={handleItemClick}
                 >
                   Analytics and Reporting
@@ -160,11 +162,11 @@ export const Navbar = () => {
               </div>
             )}
 
-            <Link href='https://blog.prfec.ai' className="navbar-contents-category">Resources</Link>
+            <Link href='https://blog.luzu.ai' className="navbar-contents-category">Resources</Link>
             <Link href='/contact-sales' className="navbar-contents-category" onClick={handleItemClick}
             >Contact us</Link>
 
-            <Link href="https://app.prfec.ai" className="navbar-login" style={{ marginLeft: "10px" }}>
+            <Link href="https://app.luzu.ai" className="navbar-login" style={{ marginLeft: "10px" }}>
               Get Started
             </Link>
           </div>
@@ -215,42 +217,42 @@ export const Navbar = () => {
                 className="flex flex-col gap-[0.9rem] pl-[10px] "
                 ref={dropdownRef}
               >
-                <Link  href="https://business.prfec.ai/seo" onClick={handleItemClick} className="navbar-contents-category">
+                <Link  href="https://business.luzu.ai/seo" onClick={handleItemClick} className="navbar-contents-category">
                   SEO
                 </Link>
                 <Link className="navbar-contents-category"
-                  href="https://business.prfec.ai/content"
+                  href="https://business.luzu.ai/content"
                   onClick={handleItemClick}
                 >
                   Content
                 </Link>
                 <Link className="navbar-contents-category"
-                  href="https://business.prfec.ai/email"
+                  href="https://business.luzu.ai/email"
                   onClick={handleItemClick}
                 >
                   Email
                 </Link>
                 <Link className="navbar-contents-category"
-                  href="https://business.prfec.ai/sma"
+                  href="https://business.luzu.ai/sma"
                   onClick={handleItemClick}
                 >
                   Social Media Advertising
                 </Link>
                 <Link className="navbar-contents-category"
-                  href="https://business.prfec.ai/payperclick"
+                  href="https://business.luzu.ai/payperclick"
                   onClick={handleItemClick}
                 >
                   Pay Per Click
                 </Link>
                 <Link className="navbar-contents-category"
-                  href="https://business.prfec.ai/analytics"
+                  href="https://business.luzu.ai/analytics"
                   onClick={handleItemClick}
                 >
                   Analytics and Reporting
                 </Link>
               </div>
             )}
-              <Link href='https://blog.prfec.ai' className="navbar-contents-category">Resources</Link>
+              <Link href='https://blog.luzu.ai' className="navbar-contents-category">Resources</Link>
               <Link href='/contact-sales' className="navbar-contents-category" onClick={handleItemClick}
               >Contact us</Link>
               </div>

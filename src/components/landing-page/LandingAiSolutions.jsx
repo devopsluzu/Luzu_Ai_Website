@@ -178,7 +178,7 @@ const LandingAiSolutions = () => {
             <div className="landing-solutions-container">
                 <div className="landing-solutions-heading">
                     <h2>AI Solutions Tailored for Your Industry</h2>
-                    <p>Whether you&apos;re optimizing SEO, creating content, or running digital ads, Prfec AI empowers your marketing strategy with data-driven automation.</p>
+                    <p>Whether you&apos;re optimizing SEO, creating content, or running digital ads, Luzu AI empowers your marketing strategy with data-driven automation.</p>
                 </div>
 
                 <div className="landing-solutions-contents">

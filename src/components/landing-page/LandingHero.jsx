@@ -15,7 +15,7 @@ const LandingHero = () => {
       <div className="landing-hero-para">
         <p>Powerful AI tools to boost your SEO, content marketing, and advertising. Get insights, outperform competitors, and maximize ROI.</p>
       </div>
-      <Link href='https://app.prfec.ai/' className="landing-hero-button">Get Started</Link>
+      <Link href='https://app.luzu.ai/' className="landing-hero-button">Get Started</Link>
     </div>
    </div>
   );
