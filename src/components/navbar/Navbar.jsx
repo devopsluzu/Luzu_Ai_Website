@@ -97,7 +97,7 @@ export const Navbar = () => {
   };
 
   return (
-    <div className="navbar bg-[#F6F7FD]">
+    <div className="navbar">
       <div className="navbar-container">
         <div className="navbar-logo">
           <Link href="/" onClick={handleLinkClick}>
