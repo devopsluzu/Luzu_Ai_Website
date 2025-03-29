@@ -7,7 +7,7 @@ import { IoIosMenu } from "react-icons/io";
 import DefaultProfile from "@public/Images/navbar/default.svg";
 import { UserAuth } from "@context/AuthContext";
 import { useRouter } from "next/navigation";
-import prfeclogo from "@public/Images/navbar/prfec-logo.svg"
+import logo from "@public/Images/navbar/logo-black.png"
 import { IoIosArrowDown } from "react-icons/io";
 import { IoIosArrowUp } from "react-icons/io";
 import { RxCross2 } from "react-icons/rx";
@@ -101,9 +101,7 @@ export const Navbar = () => {
       <div className="navbar-container">
         <div className="navbar-logo">
           <Link href="/" onClick={handleLinkClick}>
-          <div style={{fontSize:"16px",fontFamily:"var(--h-font)",fontWeight:"500",color:"var(--prfec-black)"}}>
-            Luzu AI
-          </div>
+          <Image src={logo} alt="luzu logo" style={{height:"20px",width:"auto"}} />
           </Link>
         </div>
 

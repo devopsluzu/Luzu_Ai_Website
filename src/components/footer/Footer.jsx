@@ -31,7 +31,7 @@
 import React from 'react'
 import '@styles/footer/Footer.css'
 import Image from 'next/image'
-import logo from '@public/Images/navbar/Prfec Logo White.png'
+import logo from '@public/Images/navbar/logo-white.png'
 import facebookWhite from '@public/Images/footer/facebook-white.png';
 import xWhite from '@public/Images/footer/x-white.png';
 import Instagram from '@public/Images/footer/instagram-white.png'
@@ -52,9 +52,7 @@ export const Footer = () => {
             <div className="footer-content-text"><Link href="/refund-policy"><p>Refund Policy</p></Link></div>
             </div>
             <div className='footer-contents'>
-            <div style={{fontSize:"18px",fontFamily:"var(--h-font)",fontWeight:"600",color:"var(--prfec-white)"}}>
-            Luzu AI
-          </div>
+            <Image src={logo} alt="luzu logo" style={{height:"20px",width:"auto"}} />
           </div>
           </div>
           <div className='footer-right'>
