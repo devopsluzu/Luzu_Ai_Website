@@ -1,11 +1,11 @@
 import React from 'react';
-import '@styles/footer/Compliance.css';
+import styles from '@styles/footer/Compliance.module.css';
 
 function RefundPolicy() {
   return (
     
-    <section class="compliance">
-     {/* <Helmet>
+<div  className={styles.compliance}>
+{/* <Helmet>
         <meta name="robots" content="noindex" />
       </Helmet> */}
     
@@ -66,7 +66,7 @@ function RefundPolicy() {
       <p id="last-para">The goods must be returned in the original packaging (with instructions and/or warranty card, if they were delivered with the product).
     </p>
     
-  </section>
+  </div>
   )
 }
 

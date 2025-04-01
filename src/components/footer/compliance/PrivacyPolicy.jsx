@@ -1,10 +1,10 @@
 import React from 'react';
-import '@styles/footer/Compliance.css';
+import styles from '@styles/footer/Compliance.module.css';
 
 function PrivacyPolicy() {
   return (
-    <div class="compliance">
-       {/* <Helmet>
+<div  className={styles.compliance}>
+{/* <Helmet>
         <meta name="robots" content="noindex" />
       </Helmet>
     */}

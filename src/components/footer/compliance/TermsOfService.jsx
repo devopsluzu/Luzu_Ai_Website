@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import '@styles/footer/Compliance.css';
+import styles from '@styles/footer/Compliance.module.css';
 
 function TermsOfService() {
   return (
@@ -10,8 +10,8 @@ function TermsOfService() {
       </Helmet> */}
 
 
-<div class="compliance">
-  <h1>
+<div  className={styles.compliance}>
+<h1>
     Terms of Services
   </h1>
   <p>PLEASE READ THIS TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.</p>
