@@ -14,7 +14,7 @@ function CookiePolicy() {
         Cookie Policy
       </h1>
       <p>In this Cookie Policy we will provide you with detailed information on 
-        how <strong>Luzu AI</strong>, registered address 2/49, Sangothipalayam, Kaniyur, Karumathampatti, Avanashi, Coimbatore- 641659, Tamil Nadu (hereinafter – the “we” or “our”), shall undertake to 
+        how <strong>Luzu AI</strong>, registered address PSG STEP ,Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004, Tamil Nadu (hereinafter – the “we” or “our”), shall undertake to 
         ensure the security of personal information and the protection of rights of the visitors and users of the websites 
         (hereinafter – the “Visitors”, “You”) while you use our websites including but not limited to https://luzu.ai/ (hereinafter – 
         the “Site”) and the content on it.</p>

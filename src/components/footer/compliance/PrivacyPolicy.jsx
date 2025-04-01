@@ -11,7 +11,7 @@ function PrivacyPolicy() {
         <h1>
           Privacy Policy
         </h1>
-        <p>Your privacy is important to us, so <strong>luzu AI</strong>, registered address 2/49, Sangothipalayam, Kaniyur, Karumathampatti, Avanashi, Coimbatore- 641659, Tamil Nadu. an India Company, has created the following Privacy Policy to let you know what information we collect when you visit our Site https://luzu.ai/, why we collect it and how we use it.</p>
+        <p>Your privacy is important to us, so <strong>luzu AI</strong>, registered address PSG STEP ,Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004, Tamil Nadu. an India Company, has created the following Privacy Policy to let you know what information we collect when you visit our Site https://luzu.ai/, why we collect it and how we use it.</p>
         <p>The terms “You,” “Your,” “Yours” and “User” refer to the entity/person/organization using our Site.</p>
         <p>When this Policy mentions “We”, “Us,” and “Our” it refers to <strong>luzu AI</strong> and its subsidiaries and affiliates.</p>
         <p>This Privacy Policy is governed by our Terms of Service.</p>
