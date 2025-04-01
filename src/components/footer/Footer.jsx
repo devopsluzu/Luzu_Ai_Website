@@ -48,10 +48,6 @@
 import React from 'react'
 import styles from '@styles/footer/Footer.module.css'
 import Image from 'next/image'
-<<<<<<< HEAD
-=======
-import logo from '@public/Images/navbar/logo-white.png'
->>>>>>> e16278c33e9989596f2a6a3d4d7c81320929018c
 import facebookWhite from '@public/Images/footer/facebook-white.png';
 import xWhite from '@public/Images/footer/x-white.png';
 import Instagram from '@public/Images/footer/instagram-white.png'
@@ -61,7 +57,6 @@ import Link from "next/link";
 
 export const Footer = () => {
   return (
-<<<<<<< HEAD
     <div className={styles.footer}>
     <div className={styles.footerContainer}>
       <div className={styles.footerLeft}>
@@ -75,19 +70,6 @@ export const Footer = () => {
             <Link href="/privacy-policy">
               <p>Privacy Policy</p>
             </Link>
-=======
-    <div className='footer'>
-        <div className='footer-container'>
-          <div className='footer-left'>
-            <div className='footer-contents'>
-            <div className="footer-content-text"><Link href="/terms-of-service"> <p>Terms of Service</p> </Link></div>
-            <div className="footer-content-text"><Link href="/privacy-policy"><p>Privacy Policy</p></Link></div>
-            <div className="footer-content-text"><Link href="/cookie-policy"><p>Cookie Policy</p></Link></div>
-            <div className="footer-content-text"><Link href="/refund-policy"><p>Refund Policy</p></Link></div>
-            </div>
-            <div className='footer-contents'>
-            <Image src={logo} alt="luzu logo" style={{height:"20px",width:"auto"}} />
->>>>>>> e16278c33e9989596f2a6a3d4d7c81320929018c
           </div>
           <div className={styles.footerContentText}>
             <Link href="/cookie-policy">

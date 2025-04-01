@@ -369,11 +369,7 @@ export const Navbar = () => {
       <div className={styles.navbarContainer}>
         <div className={styles.navbarLogo}>
           <Link href="/" onClick={handleLinkClick}>
-<<<<<<< HEAD
             <Image src={logo} className={styles.logo} alt="luzu logo"/>
-=======
-          <Image src={logo} alt="luzu logo" style={{height:"20px",width:"auto"}} />
->>>>>>> e16278c33e9989596f2a6a3d4d7c81320929018c
           </Link>
         </div>
 
