@@ -10,6 +10,6 @@ export default function robots() {
           "/refund-policy",
         ],
       },
-      // sitemap: "https://trafy.ai/sitemap.xml",
+      sitemap: "https://luzu.ai/sitemap.xml",
     };
   }
